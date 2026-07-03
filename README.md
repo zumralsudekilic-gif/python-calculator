@@ -1,2 +1,18 @@
-# python-calculator
-A simple calculator built with Python.
+# Python Calculator
+
+a simple calculator application developed with Python.
+
+## Features
+
+- Addiation
+- Subtraction 
+- Multiplication
+- Division
+
+## Technologies
+
+- Python 3 
+
+## Author
+
+Zümral
