@@ -19,3 +19,12 @@ elif operator == "/":
         print("Error: Division by zero is not allowed.")
 else:
     print("Invalid operation.")
+print("\nDo you want to perform another calculation?")
+answer = input("Enter Y for Yes or N for No: ")
+
+if answer == "Y" or answer == "y":
+    print("Restart the program to calculate again.")
+elif answer == "N" or answer == "n":
+    print("Thank you for using the Python Calculator!")
+else:
+    print("Invalid selection.")
