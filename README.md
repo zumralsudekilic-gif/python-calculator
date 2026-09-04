@@ -1,18 +1,9 @@
 # Python Calculator
 
-a simple calculator application developed with Python.
+A simple command-line calculator that supports addition, subtraction, multiplication, and division.
 
-## Features
+## Run
 
-- Addition
-- Subtraction 
-- Multiplication
-- Division
+python calculator.py
 
-## Technologies
-
-- Python 3 
-
-## Author
-
-Zümral
+The calculator validates numeric input and prevents division by zero.
